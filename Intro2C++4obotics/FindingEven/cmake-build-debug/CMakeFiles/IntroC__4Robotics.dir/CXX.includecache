@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Oushesh/Documents/UDCACITY/UDACITY-Robotics/IntroC++4Robotics/EvenNumbers.h
+
+C:/Users/Oushesh/Documents/UDCACITY/UDACITY-Robotics/IntroC++4Robotics/main.cpp
+iostream
+-
+EvenNumbers.h
+C:/Users/Oushesh/Documents/UDCACITY/UDACITY-Robotics/IntroC++4Robotics/EvenNumbers.h
+

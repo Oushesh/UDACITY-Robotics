@@ -1,0 +1,3 @@
+C:\Users\Oushesh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\IntroC__4Robotics.dir/objects.a
+C:\Users\Oushesh\Documents\Poincare\MiniGW\bin\ar.exe cr CMakeFiles\IntroC__4Robotics.dir/objects.a @CMakeFiles\IntroC__4Robotics.dir\objects1.rsp
+C:\Users\Oushesh\Documents\Poincare\MiniGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\IntroC__4Robotics.dir/objects.a -Wl,--no-whole-archive  -o IntroC__4Robotics.exe -Wl,--out-implib,libIntroC__4Robotics.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IntroC__4Robotics.dir\linklibs.rsp

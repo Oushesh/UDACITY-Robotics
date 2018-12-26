@@ -1,0 +1,4 @@
+C:\Users\Oushesh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Oushesh\Documents\UDCACITY\UDACITY-Robotics\IntroC++4Robotics
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Oushesh/Documents/UDCACITY/UDACITY-Robotics/IntroC++4Robotics/cmake-build-debug
