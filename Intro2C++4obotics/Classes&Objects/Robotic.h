@@ -5,7 +5,11 @@
 #define UDACITY_ROBOTICS_ROBOTIC_H
 class Robot
 {
+private:
+    int m_speed;
 public:
-    int Speed();
+    Robot();
+    void SetSpeed();
+    int getSpeed(){return Speed;}
 };
 #endif //UDACITY_ROBOTICS_ROBOTIC_H
